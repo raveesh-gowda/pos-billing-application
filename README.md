@@ -1,4 +1,4 @@
-<h1>POS Billing Application</h1>
+<h1>POS Billing Application (Ongoing)</h1>
 <h2>Overview</h2>
 <p>This is Point-On-Sale Billing Application where the user can register and log in to application. Once the user logs in a Json Web Token is generated. This generated JWT is stored in local storage. The user can be in postion to add, update, read and delete the customers and products respectively. The user can switch pages from customer to product, product to billing and anywhere in the web page. The user can carry out the customer billing for his/ her products. The bill is generated and user can print or download the bill. There is also a dashboard page where the user can view the statistics of the total customers, products, billing and revenue. Also user can view the last five customers, products and bills. The total sale is represented in the bar graph to show the sale per month. Then once the user logs out the JWT is cleared from the local storage.The backend was preset and it's API documentation was provided to perform the CRUD operations using react Js Library.</p>
 
